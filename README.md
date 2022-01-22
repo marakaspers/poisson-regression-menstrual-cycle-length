@@ -1,5 +1,5 @@
 # poisson-regression-menstrual-cycle-length
-Predicting menstrual cycle length variability using number of skipped cycles data using Poisson Regression models to improve fertility tracker's prediction accuracies. 
+Predicting menstrual cycle length variability with number of skipped cycles data using Poisson Regression models to improve fertility tracker's prediction accuracies. 
 
 Files:
 
